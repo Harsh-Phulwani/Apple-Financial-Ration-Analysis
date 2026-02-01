@@ -14,7 +14,7 @@ This project evaluates the financial performance and health of Apple Inc. by cal
 ---
 
 ## Financial Ratios Covered
-- Profitability: Gross Margin, Operating Margin, Net Margin, ROE
-- Liquidity: Current Ratio, Quick Ratio
-- Efficiency: Asset Turnover, Inventory Turnover
-- Leverage: Debt-to-Equity, Interest Coverage
+- Profitability: Gross Margin, Operating Margin, Net Margin, ROE, ROA
+- Liquidity: Current Ratio, Quick Ratio, Receivables Turnover
+- Efficiency: Asset Turnover
+- Capital Utilization: Equity Ratio, Debt-to-Equity, Asset Turnover, ROCE
