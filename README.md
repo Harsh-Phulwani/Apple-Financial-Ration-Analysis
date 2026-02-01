@@ -5,7 +5,7 @@ This project evaluates the financial performance and health of Apple Inc. by cal
 
 ---
 
-## 📊 Key Objectives
+## Key Objectives
 - Analyze Apple Inc.’s financial statements using Python
 - Calculate 10+ key financial ratios
 - Perform Year-over-Year (YoY) performance analysis
@@ -13,7 +13,7 @@ This project evaluates the financial performance and health of Apple Inc. by cal
 
 ---
 
-## 📈 Financial Ratios Covered
+## Financial Ratios Covered
 - Profitability: Gross Margin, Operating Margin, Net Margin, ROE
 - Liquidity: Current Ratio, Quick Ratio
 - Efficiency: Asset Turnover, Inventory Turnover
